@@ -1,4 +1,4 @@
-# AI Agent Guidelines for OWASP Juice Shop
+# AI Agent Guidelines for OWASP Juice Shopp
 
 This document is the **primary authoritative source** of context for all AI assistants (Claude, GitHub Copilot, Codeium, Continue.dev, Junie, etc.) contributing to OWASP Juice Shop. It provides comprehensive guidelines to maintain code quality, security, and adherence to project standards.
 
